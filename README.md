@@ -1,5 +1,6 @@
 # VariationalAutoencoders_Pytorch
-Variational Autoencoder (VAE) PyTorch Tutorial from Scratch
+Variational Autoencoder (VAE) PyTorch Tutorial from Scratch. [Read article here](https://medium.com/@rekalantar/variational-auto-encoder-vae-pytorch-tutorial-dce2d2fe0f5f)
+
 
 • Visualizing the latent space. Mean and variance range [-1.0, 1.0]
 ![latent01](https://user-images.githubusercontent.com/51782618/202878514-20fc60ba-3ff0-4503-bcf1-6172cffc9450.png)
